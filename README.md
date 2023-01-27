@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=blackmanjack&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmanjack&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
